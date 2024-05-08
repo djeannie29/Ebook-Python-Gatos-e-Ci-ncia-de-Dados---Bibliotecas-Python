@@ -23,7 +23,7 @@ Este ebook foi criado com a ajuda inteligência artificial e diagramado por Deni
 
 ## Acesso ao Ebook
 
-O ebook completo está disponível para leitura e download [aqui]([link-para-o-ebook](https://github.com/djeannie29/Ebook-Python-Gatos-e-Ci-ncia-de-Dados---Bibliotecas-Python/blob/main/Bibliotecas_Python.pdf)).
+O ebook completo está disponível para leitura e download [aqui](https://github.com/djeannie29/Ebook-Python-Gatos-e-Ci-ncia-de-Dados---Bibliotecas-Python/blob/main/Bibliotecas_Python.pdf).
 
 ## Contribuições
 
