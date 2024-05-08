@@ -16,7 +16,7 @@ Cada capítulo explora uma biblioteca específica, explicando seus conceitos bá
 
 ## Autoria
 
-Este ebook foi criado por uma inteligência artificial e diagramado por Denise Marti, uma estudante apaixonada por tecnologia e ciência de dados.
+Este ebook foi criado com a ajuda inteligência artificial e diagramado por Denise Marti, uma estudante apaixonada por tecnologia e ciência de dados.
 
 ## Acesso ao Ebook
 
