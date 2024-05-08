@@ -1,6 +1,6 @@
 # Ebook Python: Gatos e Ciência de Dados - Bibliotecas Python
 
-Este é um ebook sobre bibliotecas Python para ciência de dados, com uma abordagem divertida e analógica envolvendo gatos. O ebook foi criado com o objetivo de tornar o aprendizado sobre bibliotecas Python mais acessível e interessante para estudantes de ciência de dados.
+Este é um ebook sobre bibliotecas Python para ciência de dados, com uma abordagem divertida envolvendo gatos. O ebook foi criado com o objetivo de tornar o aprendizado sobre bibliotecas Python mais acessível e interessante para estudantes de ciência de dados.
 
 ## Conteúdo
 
@@ -16,7 +16,7 @@ Cada capítulo explora uma biblioteca específica, explicando seus conceitos bá
 
 ## Autoria
 
-Este ebook foi criado com a ajuda inteligência artificial e diagramado por Denise Marti, uma estudante apaixonada por tecnologia e ciência de dados.
+Este ebook foi criado com a ajuda inteligência artificial e diagramado por Denise Marti, uma estudante apaixonada por tecnologia e ciência de dados. Sendo este, um Projeto do Bootcamp Santander 2024 - Fundamentos de IA para Devs.
 
 ## Acesso ao Ebook
 
